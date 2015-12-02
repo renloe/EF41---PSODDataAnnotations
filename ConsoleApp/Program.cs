@@ -18,6 +18,8 @@ namespace ConsoleApp
             {
                 var alias = context.Aliases.Find(1);
             }
+
+            // Adding a comment
         }
     }
 }
